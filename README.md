@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi, I'm Mischa, a product designer and game developer from Amsterdam. <br>
-Creating solutions for people and brands. Aiming for FI/RE. <br>
+Creating solutions for people and brands. <br>
 
 ### See my design work
 - Portfolio: https://mischadesign.com
