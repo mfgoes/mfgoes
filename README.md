@@ -4,7 +4,7 @@ Hi, I'm Mischa, a UX designer and game developer from Amsterdam. <br>
 Creating solutions for people and brands. <br>
 
 ### See my design work
-- Portfolio: https://mischadesign.com
+- Portfolio: https://mfgoes.github.io/portfolio/
 
 ### 📫 Get in touch
 
