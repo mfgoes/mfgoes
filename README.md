@@ -8,7 +8,7 @@ Creating solutions for people and art for myself. I strive for FIRE so I can foc
 
 ### 📫 Get in touch
 
-- My game project: [Try it on web](https://mischa.itch.io/dusk-valley)
+- My game project: [Dusk Valley, web game](https://mischa.itch.io/dusk-valley)
 - Instagram: [@MischaDes](https://www.instagram.com/mischades)
 - Twitter: [@MischaProjects](https://twitter.com/MischaProjects)
 - Discord: [Mischa#2551](https://discord.com/)
