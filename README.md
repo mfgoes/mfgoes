@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi, I'm Mischa, a UX designer and game developer from Amsterdam. <br>
-Creating solutions for people and brands. <br>
+Creating solutions for people and art for myself. I strive for FIRE so I can focus on my creative endeavors. <br>
 
 ### See my design work
 - Portfolio: https://mfgoes.github.io/portfolio/
@@ -11,6 +11,7 @@ Creating solutions for people and brands. <br>
 - Twitter: [@MischaProjects](https://twitter.com/MischaProjects)
 - Discord: [Mischa#2551](https://discord.com/)
 - Instagram: [@MischaDes](https://www.instagram.com/mischades)
+- My game project: (https://mischa.itch.io/dusk-valley)
 
 
 <!--
