@@ -1,17 +1,19 @@
 ### Hi there 👋
 
 Hi, I'm Mischa, a UX designer and game developer from Amsterdam. <br>
-Creating solutions for people and art for myself. I strive for FIRE so I can focus on my creative endeavors. <br>
+Creating solutions that improve lives and art that makes me happy. I strive for FIRE so I can focus on my creative endeavors. <br>
 
 ### See my design work
 - Portfolio: https://mfgoes.github.io/portfolio/
+- My game project: [Dusk Valley, web game](https://mischa.itch.io/dusk-valley)
+
 
 ### 📫 Get in touch
 
-- My game project: [Dusk Valley, web game](https://mischa.itch.io/dusk-valley)
-- Twitter: [@misho_dev](https://twitter.com/misho_dev)
-- Discord: [Mischa2551](https://discord.com/)
-- Instagram: [@mischagoes](https://www.instagram.com/mischagoes)
+💬 Twitter: [@misho_dev](https://twitter.com/misho_dev)
+😄 Join my [server!](https://www.guilded.gg/Lightfall)
+🔭 Discord: [Mischa2551](https://discord.com/)
+🌱 Instagram: [@mischagoes](https://www.instagram.com/mischagoes)
 
 
 <!--
