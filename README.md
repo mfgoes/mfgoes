@@ -1,12 +1,11 @@
 ### Hello!
-I'm Mischa, a UX designer and Godot gamedev from Amsterdam. <br>
+I'm Mischa, UX designer and game developer from Amsterdam. <br>
 
 ### See my design work
-- Portfolio: https://mfgoes.github.io/portfolio/
+https://mfgoes.github.io/portfolio/
 
 ### 📫 Find me online
-🦋 BlueSky: [@Misho](https://bsky.app/profile/mishotofu.bsky.social)
-💬 Twitter (No longer active): [@Misho](https://twitter.com/misho_dev)
+🦋 BlueSky: [@Misho](https://bsky.app/profile/mishotofu.bsky.social) <br>
 
 <!--
 **mfgoes/mfgoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
