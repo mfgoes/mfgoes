@@ -1,20 +1,12 @@
-### Hi there 👋
-
-Hi, I'm Mischa, a UX designer and game developer from Amsterdam. <br>
-Creating solutions that improve lives and art that makes me happy. I strive for FIRE so I can focus on my creative endeavors. <br>
+### Hello!
+I'm Mischa, a UX designer and Godot gamedev from Amsterdam. <br>
 
 ### See my design work
 - Portfolio: https://mfgoes.github.io/portfolio/
-- My game project: [Dusk Valley, web game](https://mischa.itch.io/dusk-valley)
 
-
-### 📫 Get in touch
-
-💬 Twitter: [@misho_dev](https://twitter.com/misho_dev)
-😄 Join my [server!](https://www.guilded.gg/Lightfall)
-🔭 Discord: [Mischa2551](https://discord.com/)
-🌱 Instagram: [@mischagoes](https://www.instagram.com/mischagoes)
-
+### 📫 Find me online
+🦋 BlueSky: [@Misho](https://bsky.app/profile/mishotofu.bsky.social)
+💬 Twitter (No longer active): [@Misho](https://twitter.com/misho_dev)
 
 <!--
 **mfgoes/mfgoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
