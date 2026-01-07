@@ -2,7 +2,7 @@
 I'm Mischa, UX designer and game developer from Amsterdam. <br>
 
 ### See my design work
-https://mfgoes.github.io/portfolio/
+[https://mfgoes.github.io/portfolio/](https://mfgoes.github.io/UXFolio2025/)
 
 ### 📫 Find me online
 🦋 BlueSky: [@Misho](https://bsky.app/profile/mishotofu.bsky.social) <br>
