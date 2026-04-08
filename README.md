@@ -4,13 +4,12 @@ I'm Mischa, UX designer and game developer from Amsterdam.
 ### See my design work
 [mfgoes.github.io/portfolio-2026/](https://mfgoes.github.io/portfolio-2026/)
 
-### Consulting / Product Strategy
-Available for short-term consulting:  
-Helping scale-ups & teams optimize user acquisition, conversion flows, experimentation (A/B, usability research), and bridging UX → Product Management.  
+### Consulting / UX & Strategy
+Need help with conversion, optimising user acquisition, design, or setting up a feature roadmap?  
 → Details & availability in my [portfolio](https://mfgoes.github.io/portfolio-2026/)
 
 ### 📫 Find me online
-🦋 BlueSky: [@Misho](https://bsky.app/profile/mishotofu.bsky.social)  
+🦋 BlueSky: [@MischavdGoes](https://bsky.app/profile/mishotofu.bsky.social)  
 
 <!--
 **mfgoes/mfgoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
